@@ -14,4 +14,4 @@
 
 #### Features
 
-#### Link to specification: <a href="./docs/MADS4008-Lab Test 2.pdf" target="_blank">[App Specification]</a>
+#### Link to specification: <a href="./docs/MAD4008 - Project - Meal Delivery Apps.pdf" target="_blank">[App Specification]</a>
