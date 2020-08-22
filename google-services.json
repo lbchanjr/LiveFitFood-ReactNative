@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "110294082983",
+    "firebase_url": "https://livefitandroid.firebaseio.com",
+    "project_id": "livefitandroid",
+    "storage_bucket": "livefitandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110294082983:android:372ee57a93039f1d494282",
+        "android_client_info": {
+          "package_name": "ca.louisechan.livefitandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110294082983-umh7tcpnt707tgmo3819v014p3c195dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.louisechan.livefitandroid",
+            "certificate_hash": "89a825b835734483ffee942f84c94c492eba052a"
+          }
+        },
+        {
+          "client_id": "110294082983-3ei1c23gq838ksdreo0jonqkv3a5olju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0ujVbSB8gpyj6phtGFkJDQVHkZ62x9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110294082983-3ei1c23gq838ksdreo0jonqkv3a5olju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110294082983-mbd1ck8m7v79d04d5ujqpvljlqt40ma4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.louisechan.livefitfoodios"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110294082983:android:f2123470a6d8ce56494282",
+        "android_client_info": {
+          "package_name": "ca.louisechan.livefitreactandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110294082983-e346fpt1q1t9dbl5gpdlpiqf0i04c9s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.louisechan.livefitreactandroid",
+            "certificate_hash": "9e6a460efd5989f4b13442a1822cf10b2cb6cb14"
+          }
+        },
+        {
+          "client_id": "110294082983-3ei1c23gq838ksdreo0jonqkv3a5olju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX0ujVbSB8gpyj6phtGFkJDQVHkZ62x9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110294082983-3ei1c23gq838ksdreo0jonqkv3a5olju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110294082983-mbd1ck8m7v79d04d5ujqpvljlqt40ma4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ca.louisechan.livefitfoodios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

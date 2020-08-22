@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>110294082983-mbd1ck8m7v79d04d5ujqpvljlqt40ma4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.110294082983-mbd1ck8m7v79d04d5ujqpvljlqt40ma4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>110294082983-umh7tcpnt707tgmo3819v014p3c195dn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBMm5XBuN3DrnoMu7jCu_o5jG7VjSCyaus</string>
+	<key>GCM_SENDER_ID</key>
+	<string>110294082983</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ca.louisechan.livefitfoodios</string>
+	<key>PROJECT_ID</key>
+	<string>livefitandroid</string>
+	<key>STORAGE_BUCKET</key>
+	<string>livefitandroid.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:110294082983:ios:4c09b4ca036132e2494282</string>
+	<key>DATABASE_URL</key>
+	<string>https://livefitandroid.firebaseio.com</string>
+</dict>
+</plist>

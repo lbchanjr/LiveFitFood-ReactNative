@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "LiveFitFoodRN",
+    "slug": "LiveFitFoodRN",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ca.louisechan.livefitfoodios",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.110294082983-mbd1ck8m7v79d04d5ujqpvljlqt40ma4"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "ca.louisechan.livefitreactandroid",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
