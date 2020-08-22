@@ -20,7 +20,7 @@
 * JSON parsing
 
 #### Android screenshots
-<img src="./screenshots/screenshot1-android.png" alt="Screenshot 1 for Android" width="200">   <img src="./screenshots/screenshot2-android.png" alt="Screenshot 2 for Android" width="200">   <img src="./screenshots/screenshot3-android.png" alt="Screenshot 3 for Android" width="200">   <img src="./screenshots/screenshot4-android.png" alt="Screenshot 4 for Android" width="200">   <img src="./screenshots/screenshot5-android.png" alt="Screenshot 5 for Android" width="200">
+<img src="./screenshots/screenshot1-android.png" alt="Screenshot 1 for Android" width="190">   <img src="./screenshots/screenshot2-android.png" alt="Screenshot 2 for Android" width="190">   <img src="./screenshots/screenshot3-android.png" alt="Screenshot 3 for Android" width="190">   <img src="./screenshots/screenshot4-android.png" alt="Screenshot 4 for Android" width="190">   <img src="./screenshots/screenshot5-android.png" alt="Screenshot 5 for Android" width="190">
 
 #### iOS screenshots
 <img src="./screenshots/screenshot1-iOS.png" alt="Screenshot 1 for iOS" width="200">   <img src="./screenshots/screenshot2-iOS.png" alt="Screenshot 2 for iOS" width="200">   <img src="./screenshots/screenshot3-iOS.png" alt="Screenshot 3 for iOS" width="200">   <img src="./screenshots/screenshot4-iOS.png" alt="Screenshot 4 for iOS" width="200">   <img src="./screenshots/screenshot5-iOS.png" alt="Screenshot 5 for iOS" width="200">
